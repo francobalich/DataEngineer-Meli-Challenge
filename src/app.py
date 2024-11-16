@@ -38,6 +38,8 @@ def get_products():
                     results["count"] += len(fetched["results"])
 
 
+                with open("resultados_api.json", "w", encoding="utf-8") as file:
+                    json.dump(results, file, indent=4, ensure_ascii=False)
             return jsonify(results), 200
         else:
             return jsonify({"error": "El array de productos debe tener exactamente 10 elementos."}), 400
