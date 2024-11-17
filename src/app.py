@@ -64,9 +64,9 @@ def convert_data():
     Endpoint para procesar los productos guardados en JSONL y convertirlos en JSON para BigQuery.
     """
     try:
-        processor = ProductProcessor(input_file="productos.jsonl")
+        processor = ProductProcessor(input_file="data/productos.jsonl")
         processor.process_products()
-        processor.save_json_files()
+        processor.save_jsonl_files()
 
         return jsonify({"message": "Los datos se han convertido y guardado en archivos JSON."}), 200
 
