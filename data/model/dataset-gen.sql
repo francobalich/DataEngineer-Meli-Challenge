@@ -32,23 +32,6 @@ CREATE TABLE `dataengineer-meli-challenge.challenge.envio` (
   etiquetas ARRAY<STRING>
 );
 
--- Crear la tabla de Promocion
-CREATE TABLE `dataengineer-meli-challenge.challenge.promocion` (
-  id STRING NOT NULL,
-  producto_id STRING,
-  tipo_promocion STRING,
-  descuento_porcentaje FLOAT64,
-  descuento_monto FLOAT64,
-  fecha_inicio TIMESTAMP,
-  fecha_fin TIMESTAMP,
-  metadatos STRUCT<
-    promocion_id STRING,
-    tipo STRING,
-    financiacion STRING,
-    orden_item_precio FLOAT64
-  >
-);
-
 -- Crear la tabla de Atributo
 CREATE TABLE `dataengineer-meli-challenge.challenge.atributo` (
   id STRING NOT NULL,
@@ -66,16 +49,4 @@ CREATE TABLE `dataengineer-meli-challenge.challenge.cuota` (
   monto_por_cuota FLOAT64,
   tasa_interes FLOAT64,
   moneda STRING
-);
-
--- Crear la tabla de Categoría
-CREATE TABLE `dataengineer-meli-challenge.challenge.categoria` (
-  id STRING NOT NULL,
-  nombre STRING
-);
-
--- Crear la tabla de Dominio
-CREATE TABLE `dataengineer-meli-challenge.challenge.dominio` (
-  id STRING NOT NULL,
-  nombre STRING
 );

@@ -14,8 +14,3 @@ join: atributo {
   sql_on: ${producto.id} = ${atributo.producto_id} ;; ;;
   relationship: one_to_many
 }
-
-join: categoria {
-  sql_on: ${producto.categoria_id} = ${categoria.id} ;; ;;
-  relationship: many_to_one
-}
