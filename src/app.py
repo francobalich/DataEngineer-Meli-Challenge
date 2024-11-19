@@ -32,14 +32,15 @@ def get_products():
             user_state["count"] += len(fetched["results"])
 
         if user_state["count"] >= 500:
-            with open("productos.jsonl", "w", encoding="utf-8") as file:
+            with open("data/origin/productos.jsonl", "w", encoding="utf-8") as file:
                 for product in user_state["products"]:
                     file.write(json.dumps(product, ensure_ascii=False) + "\n")
 
             response = {
                 "message": "Se alcanzaron los 500 productos. Los datos se han guardado en JSONL.",
                 "total_products": user_state["count"],
-                "file": "productos.jsonl"
+                "file": "data/origin/productos.jsonl",
+                "data": product
             }
 
             user_state["count"] = 0
@@ -64,7 +65,7 @@ def convert_data():
     Endpoint para procesar los productos guardados en JSONL y convertirlos en JSON para BigQuery.
     """
     try:
-        processor = ProductProcessor(input_file="data/productos.jsonl")
+        processor = ProductProcessor(input_file="data/origin/productos.jsonl")
         processor.process_products()
         processor.save_jsonl_files()
 

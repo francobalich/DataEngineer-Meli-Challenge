@@ -4,7 +4,7 @@ from datetime import datetime
 
 
 class ProductProcessor:
-    def __init__(self, input_file="data/productos.jsonl", path_base="data/conversions"):
+    def __init__(self, input_file="data/origin/productos.jsonl", path_base="data/conversions"):
         """
         Inicializa la clase con el archivo de entrada JSON y la ruta base para guardar los archivos procesados.
         """
