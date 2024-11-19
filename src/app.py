@@ -90,13 +90,11 @@ def convert_lookml():
             "vendedor.jsonl": "vendedor",
             "envio.jsonl": "envio",
             "atributo.jsonl": "atributo",
-            "categoria.jsonl": "categoria",
         }
         joins = [
             {"table": "vendedor", "sql_on": "${producto.vendedor_id} = ${vendedor.id} ;;", "relationship": "many_to_one"},
             {"table": "envio", "sql_on": "${producto.envio_id} = ${envio.id} ;;", "relationship": "many_to_one"},
             {"table": "atributo", "sql_on": "${producto.id} = ${atributo.producto_id} ;;", "relationship": "one_to_many"},
-            {"table": "categoria", "sql_on": "${producto.categoria_id} = ${categoria.id} ;;", "relationship": "many_to_one"},
         ]
 
         # Verifica si la carpeta de salida existe, si no, la crea

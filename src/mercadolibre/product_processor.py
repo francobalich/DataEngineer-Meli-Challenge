@@ -17,9 +17,6 @@ class ProductProcessor:
         self.envios_json = []
         self.atributos_json = []
         self.cuotas_json = []
-        self.promociones_json = []
-        self.categorias_json = []
-        self.dominios_json = []
 
     def _load_products(self):
         """
@@ -45,8 +42,6 @@ class ProductProcessor:
         """
         Procesa los productos para extraer los datos de cada tabla.
         """
-        categorias = set()
-        dominios = set()
 
         for producto in self.productos:
             if producto is None:
@@ -117,33 +112,6 @@ class ProductProcessor:
                     "moneda": producto["installments"].get("currency_id")
                 })
 
-            # Promociones
-            if producto.get("promotions"):
-                for promo in producto["promotions"]:
-                    self.promociones_json.append({
-                        "id": promo.get("id"),
-                        "producto_id": producto.get("id"),
-                        "tipo_promocion": promo.get("type"),
-                        "descuento_porcentaje": promo.get("discount_percentage"),
-                        "descuento_monto": promo.get("discount_amount"),
-                        "fecha_inicio": promo.get("start_date"),
-                        "fecha_fin": promo.get("end_date"),
-                        "metadatos": promo.get("metadata", {})
-                    })
-
-            # Categorías (sin duplicados)
-            categorias.add((producto.get("category_id"), producto.get("category_name")))
-
-            # Dominios (sin duplicados)
-            dominios.add((producto.get("domain_id"), producto.get("domain_name")))
-
-        # Generar listas finales para categorías y dominios
-        for id_cat, nombre_cat in categorias:
-            self.categorias_json.append({"id": id_cat, "nombre": nombre_cat})
-
-        for id_dom, nombre_dom in dominios:
-            self.dominios_json.append({"id": id_dom, "nombre": nombre_dom})
-
     def save_jsonl_files(self):
         """
         Guarda los datos procesados en archivos JSONL.
@@ -158,9 +126,6 @@ class ProductProcessor:
         save_to_file(self.envios_json, "envio.jsonl")
         save_to_file(self.atributos_json, "atributo.jsonl")
         save_to_file(self.cuotas_json, "cuota.jsonl")
-        save_to_file(self.promociones_json, "promocion.jsonl")
-        save_to_file(self.categorias_json, "categoria.jsonl")
-        save_to_file(self.dominios_json, "dominio.jsonl")
 
         print("Archivos JSONL generados exitosamente.")
 
