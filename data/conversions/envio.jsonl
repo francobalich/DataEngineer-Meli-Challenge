@@ -1,156 +1,453 @@
-{"id": "MLA1430491779", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1943850532", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA825910493", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1106963999", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
-{"id": "MLA1720453306", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1846039850", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1416999708", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1528012540", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
-{"id": "MLA1420689098", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1141247667", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1437309591", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1341722364", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1116709430", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1109523234", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1845948410", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA930129754", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1727992884", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1740030218", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA935712138", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1419116359", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1417090978", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1446643017", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1443387111", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
-{"id": "MLA1381854955", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1944727294", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
-{"id": "MLA1439328553", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1902244126", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1459495187", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
-{"id": "MLA1437827951", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1105307864", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1134285847", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1455889227", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1944851724", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
-{"id": "MLA1108430860", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1876053090", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1832896162", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1425988353", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1419075791", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1903398738", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
-{"id": "MLA1447776389", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1169090990", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
-{"id": "MLA1853954300", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA839597658", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1452437709", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1181831778", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1129464283", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1106996817", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
-{"id": "MLA1131706419", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA813057022", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1438764794", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1430491779", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1943850532", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA825910493", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1106963999", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
-{"id": "MLA1720453306", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1846039850", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1416999708", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1528012540", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
-{"id": "MLA1420689098", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1141247667", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1437309591", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1341722364", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1116709430", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1109523234", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1845948410", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA930129754", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1727992884", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1740030218", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA935712138", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1419116359", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1417090978", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1446643017", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1443387111", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
-{"id": "MLA1381854955", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1944727294", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
-{"id": "MLA1439328553", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1902244126", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1459495187", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
-{"id": "MLA1437827951", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1105307864", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1134285847", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1455889227", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1944851724", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
-{"id": "MLA1108430860", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1876053090", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1832896162", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1425988353", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1419075791", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1903398738", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
-{"id": "MLA1447776389", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1169090990", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
-{"id": "MLA1853954300", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA839597658", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1452437709", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1181831778", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1129464283", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1106996817", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
-{"id": "MLA1131706419", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA813057022", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1438764794", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1430491779", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1943850532", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA825910493", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1106963999", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
-{"id": "MLA1720453306", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1846039850", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1416999708", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1528012540", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
-{"id": "MLA1420689098", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1141247667", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1437309591", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1341722364", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1116709430", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1109523234", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1845948410", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA930129754", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1727992884", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1740030218", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA935712138", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1419116359", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1417090978", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1446643017", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1443387111", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
-{"id": "MLA1381854955", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1944727294", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
-{"id": "MLA1439328553", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1902244126", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1459495187", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
-{"id": "MLA1437827951", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1105307864", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1134285847", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1455889227", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1944851724", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
-{"id": "MLA1108430860", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1876053090", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1832896162", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1425988353", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1419075791", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1903398738", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
-{"id": "MLA1447776389", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1169090990", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
-{"id": "MLA1853954300", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA839597658", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1452437709", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1181831778", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1129464283", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1106996817", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
-{"id": "MLA1131706419", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA813057022", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1438764794", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1889389070", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping", "optional_me2_chosen"]}
+{"id": "MLA1458786797", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping", "optional_me2_chosen"]}
+{"id": "MLA1824911282", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1565570776", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1396489749", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1458724569", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping", "optional_me2_chosen"]}
+{"id": "MLA1957737174", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1399343963", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1578026586", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_out", "fbm_in_process", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1399343965", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1893785588", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1147940318", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1911711842", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1448908149", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1444425075", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1718268058", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1918190638", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1765155182", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1435710875", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1391557357", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA920668384", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1737275542", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1435632437", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1824994316", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1438768357", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1454338329", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1856347462", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping", "self_service_in"]}
+{"id": "MLA1792642936", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1827453510", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1629411266", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1885117300", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1425365539", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1454261183", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1403346029", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1452808737", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1753422148", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1272621503", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1889212014", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1538617342", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1427028719", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1390406405", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1458693967", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1854580040", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1846131438", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1449526909", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1454324245", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1445207275", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA886008483", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1891795544", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping", "self_service_in"]}
+{"id": "MLA1905824812", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1889389070", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping", "optional_me2_chosen"]}
+{"id": "MLA1458786797", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping", "optional_me2_chosen"]}
+{"id": "MLA1162889635", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1824911282", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1120167822", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1565570776", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1396489749", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1120716877", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1458724569", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping", "optional_me2_chosen"]}
+{"id": "MLA1114376020", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1399343963", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1578026586", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_out", "fbm_in_process", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1558251832", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1399343965", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1443532618", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1893785588", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1147940318", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA801358498", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1911711842", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1449564187", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1448908149", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1444425075", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1431389045", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["MLA-chg-threshold-ago-22", "self_service_in"]}
+{"id": "MLA1918190638", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1916138602", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1765155182", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1435710875", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1391557357", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1106232040", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_in"]}
+{"id": "MLA920668384", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1737275542", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1373772393", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1824994316", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1339755089", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
+{"id": "MLA899501328", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment"]}
+{"id": "MLA1438768357", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1135947965", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1856347462", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping", "self_service_in"]}
+{"id": "MLA1792642936", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1959857100", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": []}
+{"id": "MLA1827453510", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1412905003", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
+{"id": "MLA1629411266", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1425365539", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1388041857", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1403346029", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1912180814", "envio_gratis": false, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": []}
+{"id": "MLA1753422148", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1272621503", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1840707528", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1109027921", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1418532703", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-CHG-threshold-nov-23", "self_service_in"]}
+{"id": "MLA1666016796", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA925594160", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1679515264", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment"]}
+{"id": "MLA1665978362", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1430481857", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment"]}
+{"id": "MLA1668497412", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1666030294", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1551741582", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment"]}
+{"id": "MLA1666004364", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1804521016", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment"]}
+{"id": "MLA1804534258", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment"]}
+{"id": "MLA1665991308", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1666030200", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1667775250", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA902504196", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1425314589", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1750155798", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1551462524", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment"]}
+{"id": "MLA1846932850", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment"]}
+{"id": "MLA1403861057", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment"]}
+{"id": "MLA1872107060", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "MLA-CHG-threshold-oct-24"]}
+{"id": "MLA1665926544", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1804508342", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment"]}
+{"id": "MLA1668555654", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment"]}
+{"id": "MLA658295234", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": []}
+{"id": "MLA1811395984", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1460241695", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-ene-24", "MLA-CH-THRESHOLD-AGO-2023", "self_service_in"]}
+{"id": "MLA904773129", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1680869070", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1665965578", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1451228435", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1411431945", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment"]}
+{"id": "MLA1666030144", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1411097049", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment"]}
+{"id": "MLA1666030296", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1437605439", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment"]}
+{"id": "MLA1410389497", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA819173096", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
+{"id": "MLA1665939606", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-CHG-threshold-nov-23", "self_service_in"]}
+{"id": "MLA1666016684", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1675120914", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1667697884", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1666004400", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA901282701", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1597673962", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment"]}
+{"id": "MLA1426654209", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1412001943", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA900561289", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
+{"id": "MLA1438102645", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1914170620", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1775618514", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1349063676", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1940903252", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1468518086", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA930064969", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA873676363", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1315063361", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1457714291", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1458347535", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1774482026", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1621747474", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1421680165", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1449922269", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1389255084", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1444506269", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1805389748", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1722901360", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1915636488", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1453258535", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1138188374", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1349058193", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1457330319", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1858479938", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1772779096", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1913466840", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1389191200", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1347074718", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1448050021", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1760003872", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1913427226", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1455896311", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1855320656", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1453643757", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1936708582", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1452255867", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1818504212", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1407421233", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1540958508", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1937772128", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1457766027", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1449670835", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1457551949", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1937811536", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1444611529", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1957619436", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1955561410", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1461364173", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1424161191", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA828975423", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1924316558", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1200766726", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1454490089", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
+{"id": "MLA1457979629", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1459519865", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA843259632", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1542104842", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1306529572", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1452005007", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA930405605", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-chg-threshold-Feb-23", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1790438792", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
+{"id": "MLA1371294499", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1116324429", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1285498345", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1468611602", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
+{"id": "MLA1369467985", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-chg-threshold-feb-22", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA927729702", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1391533931", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": []}
+{"id": "MLA1451698105", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1382592851", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1415996221", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1947752158", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1805403542", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment"]}
+{"id": "MLA1904463694", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1125759249", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1448831659", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1924367398", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA882660971", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA843258405", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1420750337", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1958546192", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1429065571", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_out", "self_service_available"]}
+{"id": "MLA922811399", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1924278172", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1454070483", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment"]}
+{"id": "MLA1682995702", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA929583471", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-chg-threshold-feb-22", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA834865184", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-chg-threshold-feb-22", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1520256746", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1152984167", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1914752424", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1391546915", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1554427980", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA843259932", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-CHG-threshold-ene-24", "MLA-chg-threshold-Feb-23", "self_service_in"]}
+{"id": "MLA931549628", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-chg-threshold-feb-22", "mandatory_free_shipping", "self_service_in"]}
+{"id": "MLA1767179428", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1906555434", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA854186636", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "MLA-chg-threshold-ago-22"]}
+{"id": "MLA1400582503", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
+{"id": "MLA1114512613", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1420776569", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1128276146", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1142443854", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-chg-threshold-ago-22", "mandatory_free_shipping"]}
+{"id": "MLA1836656292", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA926220619", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA842416616", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1452417237", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1372033287", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CH-THRESHOLD-AGO-2023", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1906890842", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1936296100", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1439481166", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1255051070", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
+{"id": "MLA1757349382", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping", "optional_me2_chosen"]}
+{"id": "MLA911464211", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA932852748", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1114269123", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1340499861", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-oct-24", "MLA-chg-threshold-feb-22", "self_service_out", "self_service_available"]}
+{"id": "MLA1946416906", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1229973071", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping", "optional_me2_chosen"]}
+{"id": "MLA1432814527", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1542220662", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-CHG-threshold-ene-24", "self_service_in"]}
+{"id": "MLA1842393676", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
+{"id": "MLA788313244", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA834875035", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1150420006", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-chg-threshold-Feb-23", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1116860736", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1114211428", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-chg-threshold-ago-22", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1412813119", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1875960536", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1901581874", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA824976187", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1114259109", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-chg-threshold-ago-22", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1288022181", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-CHG-threshold-ene-24", "self_service_in"]}
+{"id": "MLA605068182", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1444242423", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1114265384", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1119319618", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1439125763", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1729678692", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1917185282", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
+{"id": "MLA834864813", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA930625966", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1473822126", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1479308960", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_out", "self_service_available"]}
+{"id": "MLA933963945", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1100859491", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA884090495", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1322704780", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-CH-THRESHOLD-AGO-2023", "self_service_in", "MLA-CHG-threshold-ene-24"]}
+{"id": "MLA1947331766", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1932055830", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1840885828", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1441966575", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1448227895", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1441966743", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1436412955", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1454041553", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1911250364", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1452475283", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1941847716", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1889234882", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1456517239", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1907296986", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1401603057", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1446313689", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1958791954", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1957216804", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1382188583", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1951483816", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1960048256", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1446325217", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1453153999", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1960821100", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1438429497", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1930274898", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1953985204", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1456407685", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1453074825", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1876583144", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1457621439", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1435626855", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1457142687", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1435995119", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1458000931", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1940247228", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1488844448", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1455224431", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1454345275", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1455469021", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1883910810", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1454146987", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1456432295", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1890316036", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1394375783", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1437796961", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1827466896", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1858415682", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1457610503", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1937943784", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1455859819", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1935980882", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1958307556", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1460536219", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1938439740", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1960167698", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1798472498", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1920225980", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1460057685", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["local_pick_up_not_allowed", "mandatory_free_shipping"]}
+{"id": "MLA1952063860", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1951077534", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1799750584", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1959784108", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1458117133", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1458757237", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1933611622", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1456693227", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1123640222", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1951052278", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1799697666", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1787040510", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1951050436", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA928067892", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1460934557", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1920231228", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1443430443", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1951000612", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1425823245", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1430010227", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1622820506", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1214809297", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1941200204", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1432283415", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1753352938", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1456693577", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1787117740", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1438881565", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1117020690", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1370097759", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1929747872", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1458758891", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1373685235", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1456692207", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1959268500", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1951077804", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1941018974", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1396035219", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1959099496", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1889234882", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1911250364", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1456517239", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1446313689", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1958791954", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1382188583", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1957216804", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1446325217", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1438429497", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1453074825", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1457621439", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1457142687", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1435626855", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1488844448", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1455469021", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1883910810", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1450681425", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1926050966", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1448339649", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1432167045", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1935999100", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1889301150", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1947720040", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "fbm_in_process", "mandatory_free_shipping"]}
+{"id": "MLA1432154465", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1932671858", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1448847693", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1960185960", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1441246543", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1954995616", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1958786510", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1399358253", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1460132905", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1913052176", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1451619241", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping", "optional_me2_chosen"]}
+{"id": "MLA1948423774", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1413549763", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1447632131", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1913684414", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1917108660", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1460801625", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1951052634", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1434927783", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1720280662", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1459946805", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1885145104", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1448221787", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1939943134", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1413200345", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1447040213", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1961358776", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
 {"id": "MLA1119714434", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-CHG-threshold-nov-23", "self_service_in"]}
 {"id": "MLA1624353712", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1891255536", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-oct-24", "self_service_in"]}
+{"id": "MLA1528091120", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
 {"id": "MLA912468361", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
 {"id": "MLA1117489649", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
 {"id": "MLA1145424247", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_out", "self_service_available"]}
@@ -170,331 +467,80 @@
 {"id": "MLA1570130198", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
 {"id": "MLA1832906244", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-chg-threshold-Feb-23", "self_service_in"]}
 {"id": "MLA1438382556", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1458660331", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping", "optional_me2_chosen", "self_service_in"]}
+{"id": "MLA1458786797", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping", "optional_me2_chosen"]}
 {"id": "MLA1530317818", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
 {"id": "MLA648093284", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-sept-24", "MLA-CHG-threshold-ene-24"]}
 {"id": "MLA1901329626", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
 {"id": "MLA1376620459", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
 {"id": "MLA1425202945", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1458786797", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping", "optional_me2_chosen", "self_service_in"]}
+{"id": "MLA1565570776", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
 {"id": "MLA1122945362", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
 {"id": "MLA1422589547", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_out", "self_service_available"]}
 {"id": "MLA1376282653", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "MLA-CHG-threshold-ene-24", "self_service_out", "self_service_available"]}
-{"id": "MLA1565570776", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1824911282", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
 {"id": "MLA1600362292", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
 {"id": "MLA1577043874", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
 {"id": "MLA1395469299", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
 {"id": "MLA1416909993", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1824911282", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1236275770", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
 {"id": "MLA1458366595", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
 {"id": "MLA1443532618", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
 {"id": "MLA1791818426", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
 {"id": "MLA1438102645", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
 {"id": "MLA1431370341", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
 {"id": "MLA1445640740", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA871021706", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["fs_threshold_mla_change_feb2021", "self_service_in"]}
 {"id": "MLA1103043441", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA919622527", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
+{"id": "MLA1388041857", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
 {"id": "MLA1433453785", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1369302613", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-chg-threshold-Feb-23", "self_service_in"]}
-{"id": "MLA908026510", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1949954844", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
 {"id": "MLA1876660676", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1119714434", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-CHG-threshold-nov-23", "self_service_in"]}
-{"id": "MLA1624353712", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1891255536", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-oct-24", "self_service_in"]}
-{"id": "MLA912468361", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1117489649", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1145424247", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_out", "self_service_available"]}
-{"id": "MLA1162889635", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1817763676", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-test-threshold-nov-23", "self_service_in"]}
-{"id": "MLA852273801", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_in"]}
-{"id": "MLA1460874523", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA869812494", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-test-threshold-nov-23", "self_service_in"]}
-{"id": "MLA1889389070", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping", "optional_me2_chosen"]}
-{"id": "MLA1396975715", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1145944528", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1468918116", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1734370978", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1423152270", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1401781793", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "mandatory_free_shipping", "optional_me2_chosen", "self_service_available"]}
-{"id": "MLA1280250406", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1570130198", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1832906244", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-chg-threshold-Feb-23", "self_service_in"]}
-{"id": "MLA1438382556", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1458660331", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping", "optional_me2_chosen", "self_service_in"]}
-{"id": "MLA1530317818", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA648093284", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-sept-24", "MLA-CHG-threshold-ene-24"]}
-{"id": "MLA1901329626", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1376620459", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1425202945", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1458786797", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping", "optional_me2_chosen", "self_service_in"]}
-{"id": "MLA1122945362", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1422589547", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_out", "self_service_available"]}
-{"id": "MLA1376282653", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "MLA-CHG-threshold-ene-24", "self_service_out", "self_service_available"]}
-{"id": "MLA1565570776", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
-{"id": "MLA1600362292", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1577043874", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1395469299", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1416909993", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1824911282", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1458366595", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1443532618", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1791818426", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1438102645", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1431370341", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1445640740", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1103043441", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1433453785", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1369302613", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-chg-threshold-Feb-23", "self_service_in"]}
-{"id": "MLA908026510", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1949954844", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1876660676", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1119714434", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-CHG-threshold-nov-23", "self_service_in"]}
-{"id": "MLA1624353712", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1891255536", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-oct-24", "self_service_in"]}
-{"id": "MLA912468361", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1117489649", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1145424247", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_out", "self_service_available"]}
-{"id": "MLA1162889635", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1817763676", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-test-threshold-nov-23", "self_service_in"]}
-{"id": "MLA852273801", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_in"]}
-{"id": "MLA1460874523", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA869812494", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-test-threshold-nov-23", "self_service_in"]}
-{"id": "MLA1889389070", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping", "optional_me2_chosen"]}
-{"id": "MLA1396975715", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1145944528", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1468918116", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1734370978", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1423152270", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1401781793", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "mandatory_free_shipping", "optional_me2_chosen", "self_service_available"]}
-{"id": "MLA1280250406", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1570130198", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1832906244", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-chg-threshold-Feb-23", "self_service_in"]}
-{"id": "MLA1438382556", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1458660331", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping", "optional_me2_chosen", "self_service_in"]}
-{"id": "MLA1530317818", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA648093284", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-sept-24", "MLA-CHG-threshold-ene-24"]}
-{"id": "MLA1901329626", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1376620459", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1425202945", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1458786797", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping", "optional_me2_chosen", "self_service_in"]}
-{"id": "MLA1122945362", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1422589547", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_out", "self_service_available"]}
-{"id": "MLA1376282653", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "MLA-CHG-threshold-ene-24", "self_service_out", "self_service_available"]}
-{"id": "MLA1565570776", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
-{"id": "MLA1600362292", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1577043874", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1395469299", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1416909993", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1824911282", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1458366595", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1443532618", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1791818426", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1438102645", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1431370341", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1445640740", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1103043441", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1433453785", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1369302613", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-chg-threshold-Feb-23", "self_service_in"]}
-{"id": "MLA908026510", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1949954844", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1876660676", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1119714434", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-CHG-threshold-nov-23", "self_service_in"]}
-{"id": "MLA1624353712", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1891255536", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-oct-24", "self_service_in"]}
-{"id": "MLA912468361", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1117489649", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1145424247", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_out", "self_service_available"]}
-{"id": "MLA1162889635", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1817763676", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-test-threshold-nov-23", "self_service_in"]}
-{"id": "MLA852273801", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_in"]}
-{"id": "MLA1460874523", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA869812494", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-test-threshold-nov-23", "self_service_in"]}
-{"id": "MLA1889389070", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping", "optional_me2_chosen"]}
-{"id": "MLA1396975715", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1145944528", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1468918116", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1734370978", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1423152270", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1401781793", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "mandatory_free_shipping", "optional_me2_chosen", "self_service_available"]}
-{"id": "MLA1280250406", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1570130198", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1832906244", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-chg-threshold-Feb-23", "self_service_in"]}
-{"id": "MLA1438382556", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1458660331", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping", "optional_me2_chosen", "self_service_in"]}
-{"id": "MLA1530317818", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA648093284", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-sept-24", "MLA-CHG-threshold-ene-24"]}
-{"id": "MLA1901329626", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1376620459", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1425202945", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1458786797", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping", "optional_me2_chosen", "self_service_in"]}
-{"id": "MLA1122945362", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1422589547", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_out", "self_service_available"]}
-{"id": "MLA1376282653", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "MLA-CHG-threshold-ene-24", "self_service_out", "self_service_available"]}
-{"id": "MLA1565570776", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
-{"id": "MLA1600362292", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1577043874", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1395469299", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1416909993", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1824911282", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1458366595", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1443532618", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1791818426", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1438102645", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1431370341", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1445640740", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1103043441", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1433453785", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1369302613", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-chg-threshold-Feb-23", "self_service_in"]}
-{"id": "MLA908026510", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1949954844", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1876660676", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1119714434", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-CHG-threshold-nov-23", "self_service_in"]}
-{"id": "MLA1624353712", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1891255536", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-oct-24", "self_service_in"]}
-{"id": "MLA912468361", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1117489649", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1145424247", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_out", "self_service_available"]}
-{"id": "MLA1162889635", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1817763676", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-test-threshold-nov-23", "self_service_in"]}
-{"id": "MLA852273801", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_in"]}
-{"id": "MLA1460874523", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA869812494", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-test-threshold-nov-23", "self_service_in"]}
-{"id": "MLA1889389070", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping", "optional_me2_chosen"]}
-{"id": "MLA1396975715", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1145944528", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1468918116", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1734370978", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1423152270", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1401781793", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "mandatory_free_shipping", "optional_me2_chosen", "self_service_available"]}
-{"id": "MLA1280250406", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1570130198", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1832906244", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-chg-threshold-Feb-23", "self_service_in"]}
-{"id": "MLA1438382556", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1458660331", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping", "optional_me2_chosen", "self_service_in"]}
-{"id": "MLA1530317818", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA648093284", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-sept-24", "MLA-CHG-threshold-ene-24"]}
-{"id": "MLA1901329626", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1376620459", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1425202945", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1458786797", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping", "optional_me2_chosen", "self_service_in"]}
-{"id": "MLA1122945362", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1422589547", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_out", "self_service_available"]}
-{"id": "MLA1376282653", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "MLA-CHG-threshold-ene-24", "self_service_out", "self_service_available"]}
-{"id": "MLA1565570776", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
-{"id": "MLA1600362292", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1577043874", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1395469299", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1416909993", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1824911282", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1458366595", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1443532618", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1791818426", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1438102645", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1431370341", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1445640740", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1103043441", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1433453785", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1369302613", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-chg-threshold-Feb-23", "self_service_in"]}
-{"id": "MLA908026510", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1949954844", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1876660676", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1119714434", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-CHG-threshold-nov-23", "self_service_in"]}
-{"id": "MLA1624353712", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1891255536", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-oct-24", "self_service_in"]}
-{"id": "MLA912468361", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1117489649", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1145424247", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_out", "self_service_available"]}
-{"id": "MLA1162889635", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1817763676", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-test-threshold-nov-23", "self_service_in"]}
-{"id": "MLA852273801", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_in"]}
-{"id": "MLA1460874523", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA869812494", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-test-threshold-nov-23", "self_service_in"]}
-{"id": "MLA1889389070", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping", "optional_me2_chosen"]}
-{"id": "MLA1396975715", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1145944528", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1468918116", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1734370978", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1423152270", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1401781793", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "mandatory_free_shipping", "optional_me2_chosen", "self_service_available"]}
-{"id": "MLA1280250406", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1570130198", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1832906244", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-chg-threshold-Feb-23", "self_service_in"]}
-{"id": "MLA1438382556", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1458660331", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping", "optional_me2_chosen", "self_service_in"]}
-{"id": "MLA1530317818", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA648093284", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-sept-24", "MLA-CHG-threshold-ene-24"]}
-{"id": "MLA1901329626", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1376620459", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1425202945", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1458786797", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping", "optional_me2_chosen", "self_service_in"]}
-{"id": "MLA1122945362", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1422589547", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_out", "self_service_available"]}
-{"id": "MLA1376282653", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "MLA-CHG-threshold-ene-24", "self_service_out", "self_service_available"]}
-{"id": "MLA1565570776", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
-{"id": "MLA1600362292", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1577043874", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1395469299", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1416909993", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1824911282", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1458366595", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1443532618", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1791818426", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1438102645", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1431370341", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1445640740", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1103043441", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1433453785", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1369302613", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-chg-threshold-Feb-23", "self_service_in"]}
-{"id": "MLA908026510", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1949954844", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1876660676", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1119714434", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-CHG-threshold-nov-23", "self_service_in"]}
-{"id": "MLA1624353712", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1891255536", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-oct-24", "self_service_in"]}
-{"id": "MLA912468361", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1117489649", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1145424247", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_out", "self_service_available"]}
-{"id": "MLA1162889635", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1817763676", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-test-threshold-nov-23", "self_service_in"]}
-{"id": "MLA852273801", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_in"]}
-{"id": "MLA1460874523", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA869812494", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-test-threshold-nov-23", "self_service_in"]}
-{"id": "MLA1889389070", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping", "optional_me2_chosen"]}
-{"id": "MLA1396975715", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1145944528", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1468918116", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1734370978", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1423152270", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1401781793", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "mandatory_free_shipping", "optional_me2_chosen", "self_service_available"]}
-{"id": "MLA1280250406", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1570130198", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1832906244", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-chg-threshold-Feb-23", "self_service_in"]}
-{"id": "MLA1438382556", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1458660331", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping", "optional_me2_chosen", "self_service_in"]}
-{"id": "MLA1530317818", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA648093284", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-sept-24", "MLA-CHG-threshold-ene-24"]}
-{"id": "MLA1901329626", "envio_gratis": false, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1376620459", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1425202945", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1458786797", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping", "optional_me2_chosen", "self_service_in"]}
-{"id": "MLA1122945362", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1422589547", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "self_service_out", "self_service_available"]}
-{"id": "MLA1376282653", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "MLA-CHG-threshold-nov-23", "MLA-CHG-threshold-ene-24", "self_service_out", "self_service_available"]}
-{"id": "MLA1565570776", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
-{"id": "MLA1600362292", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1577043874", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1395469299", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1416909993", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1824911282", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1458366595", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1443532618", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1791818426", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "self_service_available"]}
-{"id": "MLA1438102645", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1431370341", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1445640740", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1103043441", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1433453785", "envio_gratis": false, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in"]}
-{"id": "MLA1369302613", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["MLA-chg-threshold-Feb-23", "self_service_in"]}
-{"id": "MLA908026510", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
-{"id": "MLA1949954844", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
-{"id": "MLA1876660676", "envio_gratis": false, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in"]}
+{"id": "MLA1124747315", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1426338118", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1942543724", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1608104218", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1459584517", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1935161080", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1930386624", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1941611278", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1291351149", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "mandatory_free_shipping"]}
+{"id": "MLA1460994205", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1403564837", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1460623473", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1124788652", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1541003192", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1906549314", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1459973383", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1883867060", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1608077214", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1460557077", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1755858034", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1110708205", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1421591832", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1131546037", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1753334402", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1120628237", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1642503876", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1150971971", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1131546028", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1443533727", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1857389886", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_out", "mandatory_free_shipping", "self_service_available"]}
+{"id": "MLA1361852847", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1334445710", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1924309266", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1961318034", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1454149629", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["mandatory_free_shipping"]}
+{"id": "MLA1960221956", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["local_pick_up_not_allowed", "mandatory_free_shipping"]}
+{"id": "MLA1116989495", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1109982578", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1403603613", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1924016740", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1448049849", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1370209408", "envio_gratis": true, "tipo_logistica": "cross_docking", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1404176569", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1439309809", "envio_gratis": true, "tipo_logistica": "fulfillment", "modo_envio": "me2", "etiquetas": ["fulfillment", "self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1172313430", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1927360246", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1131138891", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1109978768", "envio_gratis": true, "tipo_logistica": "xd_drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
+{"id": "MLA1444483113", "envio_gratis": true, "tipo_logistica": "drop_off", "modo_envio": "me2", "etiquetas": ["self_service_in", "mandatory_free_shipping"]}
