@@ -42,7 +42,7 @@ def get_products():
                 "message": "Se alcanzaron los 500 productos. Los datos se han guardado en JSONL.",
                 "total_products": user_state["count"],
                 "file": "data/origin/productos.jsonl",
-                "data": product
+                "data": user_state["products"]
             }
 
             user_state["count"] = 0
