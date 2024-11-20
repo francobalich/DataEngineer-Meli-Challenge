@@ -1,5 +1,5 @@
 import unittest
-from src.mercadolibre.api import getProducts
+from src.mercadolibre.get_products import getProducts
 import responses
 
 class TestGetProducts(unittest.TestCase):

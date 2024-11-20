@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-from src.mercadolibre.api import getProducts
+from src.mercadolibre.get_products import getProducts
 from src.mercadolibre.product_processor import ProductProcessor
 from src.mercadolibre.lookml_generator import LookMLGenerator
 
