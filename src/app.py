@@ -64,14 +64,14 @@ def get_products():
 @app.route('/convertdata', methods=['POST'])
 def convert_data():
     """
-    Endpoint para procesar los productos guardados en JSONL y convertirlos en JSON para BigQuery.
+    Endpoint para procesar los productos guardados en JSONL y convertirlos en JSONL para BigQuery.
     """
     try:
         processor = ProductProcessor(input_file="data/origin/productos.jsonl")
         processor.process_products()
         processor.save_jsonl_files()
 
-        return jsonify({"message": "Los datos se han convertido y guardado en archivos JSON."}), 200
+        return jsonify({"message": "Los datos se han convertido y guardado en archivos JSONL."}), 200
 
     except Exception as e:
         return jsonify({"error": str(e)}), 500
